@@ -28,7 +28,7 @@
 - Metadata.
 
 
-### VIew [Solution](https://app.powerbi.com/links/rfNgTVcWUp?ctid=e8e74f90-d5ed-4b84-83be-3aecfb1dff03&pbi_source=linkShare&bookmarkGuid=1723866c-35ed-4e96-b6c9-4468bfb4151e) Here 
+### View [Solution](https://app.powerbi.com/links/rfNgTVcWUp?ctid=e8e74f90-d5ed-4b84-83be-3aecfb1dff03&pbi_source=linkShare&bookmarkGuid=1723866c-35ed-4e96-b6c9-4468bfb4151e) Here 
 
 
 
