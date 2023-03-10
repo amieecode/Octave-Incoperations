@@ -14,7 +14,7 @@
 - Metrics List (this contains most of the metrics you need for the dashboard and you might need to create more metrics based on the additional visuals you add to the dashboard).
 - Metadata.
 
-### Solution()
+### Solution (https://app.powerbi.com/links/rfNgTVcWUp?ctid=e8e74f90-d5ed-4b84-83be-3aecfb1dff03&pbi_source=linkShare&bookmarkGuid=1723866c-35ed-4e96-b6c9-4468bfb4151e)
 
 ---
 
