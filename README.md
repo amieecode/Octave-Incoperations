@@ -2,7 +2,7 @@
 
 # Octave-Incoperations
 > This repository contains the tasks that I completed while working as an intern for [Octave Incoperations](https://octaveanalytics.com/) 
-!(https://www.google.com/url?sa=i&url=https%3A%2F%2Fng.linkedin.com%2Fcompany%2Foctave-analytics&psig=AOvVaw3mfRENSE_daNYCg-EqYSJa&ust=1678500524896000&source=images&cd=vfe&ved=0CBEQjhxqFwoTCICN7Lmc0f0CFQAAAAAdAAAAABAE)
+![o]https://www.google.com/url?sa=i&url=https%3A%2F%2Fng.linkedin.com%2Fcompany%2Foctave-analytics&psig=AOvVaw3mfRENSE_daNYCg-EqYSJa&ust=1678500524896000&source=images&cd=vfe&ved=0CBEQjhxqFwoTCICN7Lmc0f0CFQAAAAAdAAAAABAE)
 
 ## :star2: Project 1: Provide Insight to the executive team in the hosptiality domain (Level - Beginner)
 > Problem Statement
