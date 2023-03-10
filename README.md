@@ -11,7 +11,7 @@
 1. Create the metrics according to the metric list.
 2. Create a dashboard according to the mock-up provided by stakeholders.
 3. Create relevant insights that are not provided in the metric list/mock-up dashboard.
-4. Data can be found at ()
+
 
 ### Solution: 
 
@@ -28,7 +28,7 @@
 ### Other resources provided:
 - Metrics List (this contains most of the metrics you need for the dashboard and you might need to create more metrics based on the additional visuals you add to the dashboard).
 - Metadata.
-- Data can be found at ()
+
 
 ### Solution: 
 
@@ -44,7 +44,7 @@
 1. Create metrics that can better explain values in the dataset
 2. Create a dashboard to present to the stakeholders.
 3. Create relevant insights that would help drive business development and improve strategy.
-4. Data can be found at ()
+
 
 
 ### Solution: 
