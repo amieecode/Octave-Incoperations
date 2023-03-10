@@ -15,7 +15,7 @@
 ### Solution: 
 
 
-## :star2: Project 3: Provide Insights to the executive team in the telecom domain (Level - Begineer)
+## :star2: Project 2: Provide Insights to the executive team in the telecom domain (Level - Begineer)
 > Problem Statement
 
 ### Tasks:
@@ -28,11 +28,11 @@
 - Metadata.
 
 
-### Solution: 
+### VIew [Solution](https://app.powerbi.com/links/rfNgTVcWUp?ctid=e8e74f90-d5ed-4b84-83be-3aecfb1dff03&pbi_source=linkShare&bookmarkGuid=1723866c-35ed-4e96-b6c9-4468bfb4151e) Here 
 
 
 
-## :star2:  Project 2: Provide Insights to the executive team in the Financial Service domain (Level - Intermediate
+## :star2:  Project 3: Provide Insights to the executive team in the Financial Service domain (Level - Intermediate
 > Problem Statement
 
 ### Tasks:
