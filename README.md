@@ -15,7 +15,7 @@
 ### Solution: 
 
 
-## :star2: Project 2: Provide Insights to the executive team in the telecom domain (Level - Begineer)
+## :star2: Project 3: Provide Insights to the executive team in the telecom domain (Level - Begineer)
 > Problem Statement
 
 ### Tasks:
