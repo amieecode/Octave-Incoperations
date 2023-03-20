@@ -57,9 +57,9 @@
 2. Create relevant insights not provided in the metric list.
 
 ### Other resources provided:
-●      Relevant Business Knowledge & explanations
-●      Metadata
-●      Notes taken during the stakeholder meeting
+-  Relevant Business Knowledge & explanations
+-  Metadata
+-  Notes taken during the stakeholder meeting
 
 
 
