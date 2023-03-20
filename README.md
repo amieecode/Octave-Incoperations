@@ -28,6 +28,7 @@
 - Metadata.
 
 
+
 ### View [Solution](https://app.powerbi.com/links/rfNgTVcWUp?ctid=e8e74f90-d5ed-4b84-83be-3aecfb1dff03&pbi_source=linkShare&bookmarkGuid=1723866c-35ed-4e96-b6c9-4468bfb4151e) Here 
 
 
@@ -46,3 +47,20 @@
 ### Solution: 
 
 
+
+## :star2:  Project 4: Generate Insights to solve a supply chain Issue in the FMCG domain (Level - Intermediate
+> Problem Statement
+
+### Tasks:
+### You are the data analyst in the supply chain team who joined CLIFE Mart recently. You have been briefed about the task in the stakeholder business review meeting. You are to build a dashboard and perform the following task:
+1. Create the metrics according to the metrics list.
+2. Create relevant insights not provided in the metric list.
+
+### Other resources provided:
+●      Relevant Business Knowledge & explanations
+●      Metadata
+●      Notes taken during the stakeholder meeting
+
+
+
+### Solution:
