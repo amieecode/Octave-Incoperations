@@ -1,4 +1,4 @@
-
+<img src="https://cdn1.vc4a.com/media/2021/02/IMG-20210217-WA0010-1-1080x630.jpg" width="100%" height="30%">
 
 # Octave-Incoperations
 > This repository contains the tasks that I completed while working as an intern for [Octave Incoperations](https://octaveanalytics.com/) 
